@@ -5,3 +5,12 @@ This project scrape data from "https://usedabarth.co.uk/search/?adobe_mc_ref=" w
 To run this project, install the necessary libraries by running the following command
 
 pip install -r requirements.txt
+
+to run the project, execute the following command
+
+
+```` 
+```
+python Scrapping.py
+```
+````
